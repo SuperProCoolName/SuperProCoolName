@@ -7,4 +7,4 @@ IDE: ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=SuperProCoolName&show_icons=true&theme=highcontrast)](https://vk.com/eminzatov)
 
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SuperProCoolName&theme=highcontrast)
+[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SuperProCoolName&theme=highcontrast)](https://vk.com/eminzatov)
