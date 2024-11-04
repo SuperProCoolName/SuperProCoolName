@@ -1,12 +1,23 @@
-OS: [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://ru.wikipedia.org/wiki/Windows)
+![](https://static.wixstatic.com/media/53fad0_ce0704caa0174d6aa9b2b8101a62fa77~mv2.gif)
 
-Currently working with:
-[![JS](https://img.shields.io/badge/JAVASCRIPT-yellow?style=for-the-badge&logo=javascript&logoColor=white)](https://ru.wikipedia.org/wiki/JavaScript)
-[![DJANGO](https://img.shields.io/badge/DJANGO-darkgreen?style=for-the-badge&logo=django&logoColor=white)](https://ru.wikipedia.org/wiki/Django)
+![Profile views](https://komarev.com/ghpvc/?username=SuperProCoolName&label=Profile%20views&color=0e75b6&style=flat)
 
+**<h3 align="left">Connect with me:</h3>** 
+<p align="left"><a href="https://github.com/SuperProCoolName" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
-IDE: [![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com)
+ **<h3 align="left">Пишу бэкенд, работал и создавал сайты на Django и Express.js.</h3>**
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=SuperProCoolName&show_icons=true&theme=highcontrast)](https://t.me/emiranov)
+ **<h3 align="center">Skills</h3>**
 
-[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SuperProCoolName&theme=highcontrast)](https://github.com/SuperProCoolName?tab=repositories)
+<div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center;"><img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VSCode" style="margin-right: 8px"> <img src="https://skillicons.dev/icons?i=django" height="40" alt="Django" style="margin-right: 8px"> <img src="https://skillicons.dev/icons?i=express" height="40" alt="Express" style="margin-right: 8px"> <img src="https://skillicons.dev/icons?i=vue" height="40" alt="Vue" style="margin-right: 8px"> <img src="https://skillicons.dev/icons?i=nestjs" height="40" alt="Nestjs" style="margin-right: 8px"> <img src="https://skillicons.dev/icons?i=godot" height="40" alt="Godot" style="margin-right: 8px"></div>
+
+ **<h3 align="left">GitHub Stats</h3>**
+
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SuperProCoolName&theme=default&cache_seconds=1800&border_radius=4&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&line_height=25" alt="GitHub stats Card" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=SuperProCoolName&theme=default&cache_seconds=1800&border_radius=4&hide_title=false&layout=compact&langs_count=5&card_width=400&hide_progress=false" alt="GitHub top-langs Card" />
+</p>
+
+ **<h3 align="left">Support Me</h3>**
+
+<p align="left"><a href="https://ko-fi.com/sushil_" target="_blank"><img src="https://img.shields.io/badge/Ko--fi-343B45?logo=kofi&logoColor=Black" height="36" style="margin-right: 4px"></a></p>
