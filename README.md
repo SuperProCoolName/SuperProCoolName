@@ -2,10 +2,7 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=SuperProCoolName&label=Profile%20views&color=0e75b6&style=flat)
 
-**<h3 align="left">Connect with me:</h3>** 
 <p align="left"><a href="https://github.com/SuperProCoolName" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a></p>
-
- **<h3 align="left">Пишу бэкенд, работал и создавал сайты на Django и Express.js.</h3>**
 
  **<h3 align="center">Skills</h3>**
 
@@ -17,7 +14,3 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SuperProCoolName&theme=default&cache_seconds=1800&border_radius=4&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&line_height=25" alt="GitHub stats Card" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=SuperProCoolName&theme=default&cache_seconds=1800&border_radius=4&hide_title=false&layout=compact&langs_count=5&card_width=400&hide_progress=false" alt="GitHub top-langs Card" />
 </p>
-
- **<h3 align="left">Support Me</h3>**
-
-<p align="left"><a href="https://ko-fi.com/sushil_" target="_blank"><img src="https://img.shields.io/badge/Ko--fi-343B45?logo=kofi&logoColor=Black" height="36" style="margin-right: 4px"></a></p>
